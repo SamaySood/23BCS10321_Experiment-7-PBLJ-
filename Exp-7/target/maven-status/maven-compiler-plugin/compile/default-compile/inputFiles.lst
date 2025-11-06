@@ -1,0 +1,10 @@
+/home/workspace/my-project/src/main/java/com/example/service/StudentService.java
+/home/workspace/my-project/src/main/java/com/example/controller/StudentController.java
+/home/workspace/my-project/src/main/java/com/example/model/Product.java
+/home/workspace/my-project/src/main/java/com/example/service/ProductService.java
+/home/workspace/my-project/src/main/java/com/example/dao/ProductDao.java
+/home/workspace/my-project/src/main/java/com/example/dao/StudentDao.java
+/home/workspace/my-project/src/main/java/com/example/model/Student.java
+/home/workspace/my-project/src/main/java/com/example/controller/ProductController.java
+/home/workspace/my-project/src/main/java/com/example/SpringJdbcDemoApplication.java
+/home/workspace/my-project/src/main/java/com/example/dao/DatabaseConnectionDao.java
